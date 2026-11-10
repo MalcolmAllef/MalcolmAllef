@@ -158,7 +158,7 @@ Me chamo Malcolm Allef da Silva, tenho 24 anos e sou natural de São Paulo. Conc
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmAllef&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalcolmAllef&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
