@@ -5,7 +5,7 @@
 **`Aprendiz de Desenvolvedor `**
 
 Me chamo Malcolm Allef da Silva, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio no Colégio Friburgo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unifecaf. 
-Me encontrei na área de tecnologia e compartilho meu conhecimento aqui no GitHub, mais planejo começar a compartilhar em outros lugares também como: (Instagram) ou até mesmo (Youtube). 
+Me encontrei na área de tecnologia e compartilho meu conhecimento aqui no GitHub.
 
 Sou profissional da área de Tecnologia da Informação, com experiência em suporte técnico, operações de TI, gestão de processos e melhoria contínua.
 Tenho interesse em desenvolvimento de software, automação de processos e soluções tecnológicas que possam simplificar atividades e otimizar resultados.
