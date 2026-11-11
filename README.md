@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=MalcolmAllef&color=006bed)
 # 👨🏿‍💻 Malcolm Allef
 
 **`By Him, for Him  `**
