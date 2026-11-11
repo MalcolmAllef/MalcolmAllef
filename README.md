@@ -4,9 +4,9 @@
 
 **`Aprendiz de Desenvolvedor `**
 
-Estudando Análise e Desenvolvimento de Sistemas pelo Centro Universitário Unifecaf
-Trabalhando como Analista de Projetos TI na Stefanini Group
-Buscando me tornar Engenheiro de Software
+- Estudando Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFecaf  
+- Trabalhando como Analista de Projetos TI na Stefanini Group  
+- Buscando crescer na carreira de Desenvolvedor 
 
 🚀 Em constante aprendizado, evolução e construção de novos projetos.
 
